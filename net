@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Alexandria Graphic Design and Digital Media</title>
+    <style>
+      body {
+        background-color: #fff; /* set background color to white */
+      }
+      #header {
+        background-color: #f5f5f5; /* set header background color to light pink */
+        border-bottom: 1px solid #ccc; /* add a border to the bottom of the header */
+        padding: 20px; /* add padding to the header */
+      }
+      h1 {
+        margin: 0; /* remove margin from the h1 element */
+      }
+      #about-me {
+        background-color: #f0f8ff; /* set about-me section background color to light blue */
+        padding: 20px; /* add padding to the about-me section */
+      }
+    </style>
+  </head>
+  <body>
+    <div id="header">
+      <h1>Alexandria Graphic Design and Digital Media</h1>
+    </div>
+    <div id="about-me">
+      <h2>About Me</h2>
+      <p>My name is [insert your name here], and I am a freelance graphic designer and digital media specialist. With over [insert years of experience here] of experience, I have honed my skills in [insert skills here].</p>
+      <h3>References</h3>
+      <ul>
+        <li>[insert Fiverr reference 1 here]</li>
+        <li>[insert Fiverr reference 2 here]</li>
+        <li>[insert Fiverr reference 3 here]</li>
+        <li>[insert Fiverr reference 4 here]</li>
+        <li>[insert Fiverr reference 5 here]</li>
+      </ul>
+    </div>
+  </body>
+</html>
